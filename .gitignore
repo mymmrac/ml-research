@@ -131,4 +131,5 @@ dmypy.json
 input/
 output/
 fss-100.zip
+.idea/
 
